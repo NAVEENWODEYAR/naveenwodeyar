@@ -3,9 +3,8 @@
 <div align="center">
   <img alt="coder" width="400" src="https://files.codingninjas.in/article_images/java-developers-application-settings-1-1660983825.jpg">
 </div>
- <div class="image-container" style="display: flex; justify-content: center; align-items: center; padding: 20px; background-color: inherit;">
-        <img alt="coder" width="400" src="https://files.codingninjas.in/article_images/java-developers-application-settings-1-1660983825.jpg" style="background-color: inherit;">
-    </div>
+    <img alt="coder" src="https://files.codingninjas.in/article_images/java-developers-application-settings-1-1660983825.jpg" style="width: 100%; max-width: 100vw;">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenwodeyar&label=Profile%20views&color=0e75b6&style=flat" alt="naveenwodeyar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveenwodeyar" alt="naveenwodeyar" /></a> </p>
