@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Naveen Kumar K</h1>
 <h3 align="center">A passionate Java-Developer from India</h3>
-<img align="right" alt="coder" width="400" src="https://files.codingninjas.in/article_images/java-developers-application-settings-1-1660983825.jpg">
+<div align="center">
+  <img alt="coder" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*XpdVmHbfJsDzZ_GqmOEIWg.gif">
+</div>
+<marquee><img align="right" alt="coder" width="400" src="https://files.codingninjas.in/article_images/java-developers-application-settings-1-1660983825.jpg"></marquee>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenwodeyar&label=Profile%20views&color=0e75b6&style=flat" alt="naveenwodeyar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveenwodeyar" alt="naveenwodeyar" /></a> </p>
