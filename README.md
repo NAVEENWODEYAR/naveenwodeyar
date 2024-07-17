@@ -1,5 +1,6 @@
+<marquee><h1>Welcome</h1></marquee>
 <h1 align="center">Hi 👋, I'm Naveen Kumar K</h1>
-<h3 align="center">A passionate Java-Developer from India</h3>
+<h3 align="center"> Java-Developer Bangalore India</h3>
 <div align="center">
   <img alt="coder" width="400" src="https://files.codingninjas.in/article_images/java-developers-application-settings-1-1660983825.jpg">
 </div>
@@ -13,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NAVEENWODEYAR](https://github.com/NAVEENWODEYAR)
 
-- 💬 Ask me about **Java,Java8,SpringBoot,REST,Microserices,MySQL,Oracle,,**
+- 💬 Ask me about **Java, Java8, Spring Boot, REST, Microserices, MySQL, Oracle,,**
 
 - 📫 How to reach me **naveenkrishnawodeyar@gmail.com**
 
