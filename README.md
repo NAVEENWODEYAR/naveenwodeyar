@@ -30,5 +30,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenwodeyar&show_icons=true&locale=en" alt="naveenwodeyar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenwodeyar&" alt="naveenwodeyar" /></p>
-<img style="border-radius:50px;" width="200px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNlc3Z4bnRmdjZuaW9mYjJtOXl6bGVqOG10dmpkMHVhbDU0N3RkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rdxcrFrlUihGjRLVDN/giphy.gif" alt="">
