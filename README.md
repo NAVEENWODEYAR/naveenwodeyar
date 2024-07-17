@@ -3,6 +3,9 @@
 <div align="center">
   <img alt="coder" width="400" src="https://files.codingninjas.in/article_images/java-developers-application-settings-1-1660983825.jpg">
 </div>
+ <div class="image-container" style="display: flex; justify-content: center; align-items: center; padding: 20px; background-color: inherit;">
+        <img alt="coder" width="400" src="https://files.codingninjas.in/article_images/java-developers-application-settings-1-1660983825.jpg" style="background-color: inherit;">
+    </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenwodeyar&label=Profile%20views&color=0e75b6&style=flat" alt="naveenwodeyar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveenwodeyar" alt="naveenwodeyar" /></a> </p>
@@ -28,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenwodeyar&show_icons=true&locale=en" alt="naveenwodeyar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenwodeyar&" alt="naveenwodeyar" /></p>
+<img style="border-radius:50px;" width="200px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNlc3Z4bnRmdjZuaW9mYjJtOXl6bGVqOG10dmpkMHVhbDU0N3RkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rdxcrFrlUihGjRLVDN/giphy.gif" alt="">
