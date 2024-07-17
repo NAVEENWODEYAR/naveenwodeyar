@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naveen Kumar K</h1>
 <h3 align="center"> Java-Developer Bangalore India</h3>
 <div align="center">
-  <img alt="coder" width="400" src="https://files.codingninjas.in/article_images/java-developers-application-settings-1-1660983825.jpg">
+  <img alt="coder" width="400" src="C:\Users\LENOVO\Downloads\java">
 </div>
  <div style="display: flex; justify-content: center; align-items: center; background-color: white;">
         <img alt="coder" src="https://files.codingninjas.in/article_images/java-developers-application-settings-1-1660983825.jpg" style="background-color: white; width: 100%; max-width: 100vw;">
