@@ -1,4 +1,3 @@
-<marquee><h1>Welcome</h1></marquee>
 <h1 align="center">Hi 👋, I'm Naveen Kumar K</h1>
 <h3 align="center"> Java-Developer Bangalore India</h3>
 <div align="center">
