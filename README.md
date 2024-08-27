@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Naveen Kumar K</h1>
-<h3 align="center"> Java-Developer Bangalore India</h3>
+<h1 align="center">Hello👋, I'm Naveen Kumar K</h1>
+<h3 align="center"> Technophile,Java Developer</h3>
+<h3 align="center"> Bangalore,India</h3>
 <div align="center">
   <img alt="coder" width="400" src="https://files.codingninjas.in/article_images/java-developers-application-settings-1-1660983825.jpg">
 </div>
@@ -9,11 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 LifeLong Learning ****
 
 - 👨‍💻 All of my projects are available at [https://github.com/NAVEENWODEYAR](https://github.com/NAVEENWODEYAR)
 
-- 💬 Ask me about **Java, Java8, Spring Boot, REST, Microserices, MySQL, Oracle,,**
+- 💬 Ask me about **Java, Spring Boot, REST, MicroServices, MySQL, Oracle,**
 
 - 📫 How to reach me **naveenkrishnawodeyar@gmail.com**
 
