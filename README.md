@@ -1,6 +1,6 @@
-<h1 align="center">Hello👋, I'm Naveen Kumar K</h1>
+<h1 align="center">Welcome👋, I'm Naveen Kumar K</h1>
 <h3 align="center"> Technophile,Java Developer</h3>
-<h3 align="center"> Bangalore,India</h3>
+<h3 align="center"> Silicon Valley,India</h3>
 <div align="center">
   <img alt="coder" width="400" src="https://files.codingninjas.in/article_images/java-developers-application-settings-1-1660983825.jpg">
 </div>
