@@ -11,11 +11,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 LifeLong Learning ****
+- 🌱 LifeLong Learning,,
 
 - 👨‍💻 All of my projects are available at [https://github.com/NAVEENWODEYAR](https://github.com/NAVEENWODEYAR)
 
-- 💬 Ask me about **Java, Spring Boot, REST, MicroServices, MySQL, Oracle,**
+- 💬 Ask me about **Java, Spring Boot, REST, MicroServices, MySQL, Oracle, Kafka,**
 
 - 📫 How to reach me **naveenkrishnawodeyar@gmail.com**
 
