@@ -27,3 +27,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenwodeyar&show_icons=true&locale=en" alt="naveenwodeyar" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NaveenWodeyar&" alt="NaveenWodeyar" /></p>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=naveenwodeyar&show_icons=true&locale=en" alt="naveenwodeyar" style="margin-right: 10px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaveenWodeyar&" alt="NaveenWodeyar" />
+</div>
+
