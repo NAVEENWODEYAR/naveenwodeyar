@@ -1,6 +1,6 @@
 <h1 align="center">Welcome👋,</h1>
 <h2 align="center"> I'm Naveen Kumar K</h2>
-<h3 align="center"> Technophile,Silicon Valley India</h3>
+<h3 align="center"> Technophile from Silicon Valley India</h3>
 <div align="center">
   <img alt="coder" width="400" src="https://files.codingninjas.in/article_images/java-developers-application-settings-1-1660983825.jpg">
 </div>
@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NAVEENWODEYAR](https://github.com/NAVEENWODEYAR)
 
-- 💬 Ask me about **Java, Spring Boot, REST, MicroServices, MySQL, Oracle, Kafka,**
+- 💬 Ask me about **Java, Spring Boot, REST, MicroServices, MySQL, Oracle, MongoDb, Kafka,**
 
 - 📫 How to reach me **naveenkrishnawodeyar@gmail.com**
 
