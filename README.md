@@ -1,4 +1,4 @@
-<h1 align="center">Welcome👋,</h1>
+<h1 align="center">Welcome</h1>
 <h2 align="center"> I'm Naveen Kumar K</h2>
 <h3 align="center"> Technophile from Silicon Valley India</h3>
 <div align="center">
@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NAVEENWODEYAR](https://github.com/NAVEENWODEYAR)
 
-- 💬 Ask me about **Java, Spring Boot, REST, MicroServices, MySQL, Oracle, MongoDb, Kafka,**
+- 💬 Ask me about **Java, Spring Boot, REST, MicroServices, MySQL, Oracle, MongoDb, Kafka, Temporal**
 
 - 📫 How to reach me **naveenkrishnawodeyar@gmail.com**
 
